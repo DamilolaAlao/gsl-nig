@@ -1,0 +1,27 @@
+/*
+==================================================
+
+	Theme Name: SellingDoors
+	Theme URI: http://www.webishtech.com/
+	Description: SellingDoors Wordpress Theme
+	Author: Webish Tech
+	Author URI: http://www.webishtech.com/
+	Version: 1.0
+
+
+================================================== */
+
+@import "assets/css/bootstrap.css";
+@import "assets/js/google-code-prettify/prettify.css";
+@import "assets/css/application.css";
+@import "assets/css/123ecology-bootstrap.css";
+@import "assets/css/social-media.css";
+@import "assets/css/bulleted-list.css";
+@import "assets/css/button-icons.css";
+
+@import "assets/isotope/css/style.css";
+@import "assets/prettyPhoto/prettyPhoto.css";
+@import "assets/js/google-code-prettify/prettify.css";
+@import "assets/etalage/css/etalage.css";
+@import "assets/etalage/demo_files/_fancybox_plugin/jquery.fancybox-1.3.4.css";
+

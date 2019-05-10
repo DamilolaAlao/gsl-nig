@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Gladiator Systems Limited &#187; Products</title>
+	<atom:link href="http://gsl-ng.com/products/feed/?product_cat=e1500" rel="self" type="application/rss+xml" />
+	<link>http://gsl-ng.com</link>
+	<description>Selling Doors</description>
+	<lastBuildDate>Tue, 30 May 2017 06:18:38 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.2.23</generator>
+	<item>
+		<title>E SERIES</title>
+		<link>http://gsl-ng.com/product/e-series/</link>
+		<comments>http://gsl-ng.com/product/e-series/#comments</comments>
+		<pubDate>Thu, 02 Mar 2017 22:37:00 +0000</pubDate>
+		<dc:creator><![CDATA[gslAdmin]]></dc:creator>
+		
+		<guid isPermaLink="false">http://gsl-ng.com/?post_type=product&#038;p=1930</guid>
+		<description><![CDATA[<strong>GENERAL  DESCRIPTION</strong>
+The E series board material is made of the Leesun board and the bracket material iis made of Alumiun and stainless steel .
+<strong>DIMENSION</strong>
+<ul>
+	<li>E1200- Depth 930mm Width 1200mm</li>
+	<li>E1400- Depth 930mm Width 1400mm</li>
+	<li>E1500- Depth 930mm Width 1500mm</li>
+</ul>
+&#160;
+
+<strong>BOARD COLOUR
+</strong>Clear brown,tinted grey,light grey,frosted,blue or customised
+<strong>BRACKET COLOUR
+</strong>Silver,brushed SS or customised]]></description>
+				<content:encoded><![CDATA[<p><a href="http://gsl-ng.com/wp-content/uploads/2017/05/IMG_3214.jpg"><img class="alignnone size-full wp-image-1931" src="http://gsl-ng.com/wp-content/uploads/2017/05/IMG_3214.jpg" alt="IMG_3214" width="1280" height="648" /></a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://gsl-ng.com/product/e-series/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

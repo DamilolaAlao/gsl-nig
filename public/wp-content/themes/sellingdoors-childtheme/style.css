@@ -1,0 +1,139 @@
+/*
+
+ Theme Name:     SellingDoors Child
+
+ Theme URI:      http://www.webishtech.com
+
+ Description:    SellingDoors Child
+
+ Author:         Webish Tech
+
+ Author URI:     http://webishtech.com/
+
+ Template:       sellingdoors
+
+ Version:        1.0.0
+
+*/
+
+ 
+
+@import url("../sellingdoors/style.css");
+
+ 
+
+/* =Theme customization starts here
+
+------------------------------------------------------- */
+
+h1, h2, h3, h4, h5, h6 {
+color: #01244E !important; 
+}
+.post.portfolio .more-link {
+display: none !important;
+}
+.navbar li.backLava {
+border-top: 3px solid #BA8747 !important;
+}
+.callout, .woocommerce div.product .woocommerce-tabs ul.tabs li.active a, .woocommerce-page div.product .woocommerce-tabs ul.tabs li.active a, .woocommerce #content div.product .woocommerce-tabs ul.tabs li.active a, .woocommerce-page #content div.product .woocommerce-tabs ul.tabs li.active a, div.product .woocommerce_tabs ul.tabs li.active a, #content div.product .woocommerce_tabs ul.tabs li.active a {
+border-left: 3px solid #BA8747 !important;
+}
+.heading-content .title {
+border-left-color: #BA8747 !important;
+}
+.footer-bottom {
+color: #FFFFFF !important; 
+background-color: #01244E !important;
+}
+.footer-bottom a{
+color: #FFFFFF !important; 
+}
+#footer .footer-bottom-left input[type="text"] {
+color: #000000 !important; 
+background: #FFFFFF !important; 
+}
+
+#footer h1, #footer h2, #footer h3, #footer h4, #footer h5, #footer h6 {
+color: #ccc !important;
+}
+
+.btn-primary {
+background-color: #BA8748 !important; 
+background-image: -moz-linear-gradient(top, #185094, #01244E) !important; 
+background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#FFCA88), to(#9B6E36)) !important; 
+background-image: -webkit-linear-gradient(top, #FFCA88, #9B6E36) !important; 
+background-image: -o-linear-gradient(top, #185094, #01244E) !important; 
+background-image: linear-gradient(to bottom, #FFCA88, #9B6E36) !important; 
+}
+.dropdown-menu li > a:hover, .dropdown-menu li > a:focus, .dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus, .dropdown-submenu:hover > a, .dropdown-submenu:focus > a {
+background-color: #BA8748;
+background-image: -moz-linear-gradient(top, #FFC276, #935A14) !important; 
+background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#FFC276), to(#935A14)) !important; 
+background-image: -webkit-linear-gradient(top, #FFC276, #935A14) !important; 
+background-image: -o-linear-gradient(top, #FFC276, #935A14) !important; 
+background-image: linear-gradient(to bottom, #FFC276, #935A14) !important; 
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffc7da1a', endColorstr='#ffaebe00', GradientType=0) !important; 
+}
+.dropdown .dropdown-menu .nav-header {
+padding: 5px 10px !important;
+background-color: #01244E !important;
+color: white !important;
+text-shadow: 0 0px 0 rgba(255, 255, 255, 1) !important;
+}
+
+#meta {
+border-top: 3px solid #01244E !important;
+}
+
+.dropdown-menu .active > a, .dropdown-menu .active > a:hover, .dropdown-menu .active > a:focus, .dropdown-menu > .active > a, .dropdown-menu > .active > a:hover, .dropdown-menu > .active > a:focus{
+
+background-color: #BA8748;
+background-image: -moz-linear-gradient(top, #FFC276, #935A14) !important;
+background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#FFC276), to(#935A14)) !important;
+background-image: -webkit-linear-gradient(top, #FFC276, #935A14) !important;
+background-image: -o-linear-gradient(top, #FFC276, #935A14) !important;
+background-image: linear-gradient(to bottom, #FFC276, #935A14) !important;
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffc7da1a', endColorstr='#ffaebe00', GradientType=0) !important;
+}
+
+#footer > div.wrap.footer-bottom{
+border-top: 3px solid #BA8748 !important;
+}
+
+.product-item .effect-thumb .extras, .portfolio-item .effect-thumb .extras {
+background: -moz-linear-gradient(left, #01244E 0%, #185094 50%, #01244E 100%) !important;
+background: -webkit-gradient(linear, left top, right top, color-stop(0%,#797A7A), color-stop(50%,#BCBCBC), color-stop(100%,#797A7A)) !important;
+background: -webkit-linear-gradient(left, #01244E 0%,#185094 50%,797A7A 100%) !important;
+background: -o-linear-gradient(left, #01244E 0%,#185094 50%,#01244E 100%) !important;
+background: -ms-linear-gradient(left, #01244E 0%,#185094 50%,#01244E 100%) !important;
+background: linear-gradient(to right, #797A7A 0%,#BCBCBC 50%,#797A7A 100%) !important;
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#01244E', endColorstr='#01244E',GradientType=1 ) !important;
+}
+
+#header .navbar .nav li.dropdown.open > .dropdown-toggle, #header .navbar .nav li.dropdown.active > .dropdown-toggle, #header .navbar .nav li.dropdown.open.active > .dropdown-toggle, #header .navbar .nav > .active > a, #header .navbar .nav > .active > a:hover, #header .navbar .nav > .active > a:focus {
+font-weight: normal !important;
+}
+
+.navbar .nav > li > a {
+color: #01244E !important;
+}
+
+#header .navbar .nav > .active > a {
+font-weight: bold !important;
+}
+
+/** RMI - July-12-2014 - Single Product Thumb Resize Custom Css **/
+
+ul#etalage2 {
+height: 700px !important;
+}
+img.etalage_thumb_image {
+height: 700px !important
+}
+#etalage2 .etalage_thumb_image {
+height: 700px !important;
+}
+/** RMI - August-27-2014 - Call Out in Homepage Custom Css Style APPLY **/
+.callout {
+position: relative !important;
+}

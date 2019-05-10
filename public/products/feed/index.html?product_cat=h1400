@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Gladiator Systems Limited &#187; Products</title>
+	<atom:link href="http://gsl-ng.com/products/feed/?product_cat=h1400" rel="self" type="application/rss+xml" />
+	<link>http://gsl-ng.com</link>
+	<description>Selling Doors</description>
+	<lastBuildDate>Tue, 30 May 2017 06:18:38 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.2.23</generator>
+	<item>
+		<title>H SERIES</title>
+		<link>http://gsl-ng.com/product/h-series/</link>
+		<comments>http://gsl-ng.com/product/h-series/#comments</comments>
+		<pubDate>Sun, 02 Apr 2017 19:49:20 +0000</pubDate>
+		<dc:creator><![CDATA[gslAdmin]]></dc:creator>
+		
+		<guid isPermaLink="false">http://gsl-ng.com/?post_type=product&#038;p=1883</guid>
+		<description><![CDATA[<strong>GENERAL DESCRIPTION
+</strong>The material board of the H series is made up Leesun board,sunsheet board,Aluminum composite,Enchaned resin.Whilethe bracket material is made of Engineering plastics
+
+<strong>DIMENSIONS:
+</strong>
+<ul>
+	<li>H1000–depth 700mm  width 1000mm</li>
+	<li>H1200-depth 700mm width 1200mm</li>
+	<li>H1400-depth 700mm width 1400mm</li>
+</ul>
+<strong>BRACKET COLOUR;
+</strong>Black,white,grey,brown or customised
+clear brown,tinted grey,light grey,frosted,blue,silver,milky green or customised
+
+BRACKET COLOUR;
+Black,white,grey,brown or customised
+clear brown,tinted grey,light grey,frosted,blue,silver,milky green or customised
+
+BRACKET COLOUR;
+Black,white,grey,brown or customised
+
+BOARD COLOUR;
+clear brown,tinted grey,light grey,frosted,blue,silver,milky green or customised
+
+BRACKET COLOUR;
+Black,white,grey,brown or customised]]></description>
+				<content:encoded><![CDATA[<p><a href="http://gsl-ng.com/wp-content/uploads/2017/05/IMG_3204.jpg"><img class="alignnone size-full wp-image-1890" src="http://gsl-ng.com/wp-content/uploads/2017/05/IMG_3204.jpg" alt="IMG_3204" width="1280" height="648" /></a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://gsl-ng.com/product/h-series/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
