@@ -2,9 +2,7 @@
 
 ## To Run Locally
 
-## \$ git clone git@github.com:DamilolaAlao/Candidus.git
-
-## \$ cd node-js-template
+## \$ git clone git@github.com:DamilolaAlao/gsl-nig.git
 
 ## \$ npm install
 

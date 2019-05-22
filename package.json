@@ -4,19 +4,15 @@
   "description": "Damilola's Server",
   "main": "index.js",
   "dependencies": {
-    "ejs": "^2.5.9",
-    "express": "^4.16.3",
-    "request": "^2.85.0",
-    "tape": "^4.9.0"
+    "express": "^4.16.3"
   },
   "devDependencies": {},
   "scripts": {
-    "start": "node index.js",
-    "test": "node test.js"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DamilolaAlao/Candidus.git"
+    "url": "git+https://github.com/DamilolaAlao/gsl-nig.git"
   },
   "keywords": [
     "node"
@@ -24,7 +20,7 @@
   "author": "Damilola",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DamilolaAlao/Candidus/issues"
+    "url": "https://github.com/DamilolaAlao/gsl-nig/issues"
   },
-  "homepage": "https://github.com/DamilolaAlao/Candidus#readme"
+  "homepage": "https://github.com/DamilolaAlao/gsl-nig#readme"
 }
