@@ -2,7 +2,7 @@
 
 ## To Run Locally
 
-## \$ git clone git@github.com:DamilolaAlao/gsl-nig.git
+## \$ git clone https://github.com/DamilolaAlao/gsl-nig
 
 ## \$ npm install
 
